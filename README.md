@@ -12,7 +12,6 @@ Synthetic Dataset: Utilizes a simulated dataset of random image tensors to demon
 
 Multiclass Classification: Supports classification across 3 target classes using CrossEntropyLoss.
 
-Learning Git step by step
 
 
 
