@@ -3,6 +3,7 @@ This project implements a lightweight Convolutional Neural Network (CNN) designe
 
 🧠 Key Features
 
+
 Minimal Architecture: A simple yet effective CNN with two convolutional layers, pooling, and fully connected layers for fast training and inference.
 
 
@@ -10,6 +11,9 @@ Synthetic Dataset: Utilizes a simulated dataset of random image tensors to demon
 
 
 Multiclass Classification: Supports classification across 3 target classes using CrossEntropyLoss.
+
+Learning Git step by step
+
 
 
 PyTorch Implementation: Built entirely with PyTorch, allowing easy customization and extension for real-world datasets.
